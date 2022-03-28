@@ -3,6 +3,10 @@ uuid = "53fedb8b-5c20-4887-b9ee-d6109c5b8ec7"
 authors = ["Rehmi Post <rehmi.post@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
+
 [compat]
 julia = "1"
 
